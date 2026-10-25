@@ -16,10 +16,10 @@
 
 ### 💼 Experience
 
-**Attijariwafa bank** · *Data & AI Intern* · Jul – Sep 2026
+**Data & AI Intern** · 2026
 Built an AI agent for technical analysis on the Casablanca Stock Exchange: a ReAct agent (LangGraph) on top of a technical-indicators engine (RSI, MACD, EMA, Bollinger Bands), market data stored in PostgreSQL, a FastAPI backend and a RAG module answering questions about listed companies.
 
-**Ministry of Digital Transformation (Mauritania)** · *Full-Stack Developer Intern* · Jul 2025
+**Full-Stack Developer Intern** · 2025
 Internal web app to digitize meeting management (Laravel, React, MySQL).
 
 ---
