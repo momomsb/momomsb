@@ -22,16 +22,7 @@ Built an AI agent for technical analysis on the Casablanca Stock Exchange: a ReA
 **Full-Stack Developer Intern** · 2025
 Internal web app to digitize meeting management (Laravel, React, MySQL).
 
----
 
-### 🚀 Featured projects
-
-| Project | What it does | Stack |
-|---|---|---|
-| [**Alumni ENSAJ**](https://github.com/momomsb/alumni-ensaj) | Predicts graduates' career paths: scraping + LLM structuring, star-schema warehouse, ML models | Python · Selenium · LLMs · PostgreSQL · XGBoost · FastAPI · React |
-| [**StreamETL**](https://github.com/momomsb/streametl) | Low-code platform to design real-time ETL pipelines visually, executed on Kafka & Spark | Python · FastAPI · Kafka · Spark · Parquet |
-| [**Job-Market Skill Recommender**](https://github.com/momomsb/skill-recommender) | Analyzes job offers and CVs to recommend the skills and courses to learn next | Python · BeautifulSoup · LLM · MCP server · Streamlit |
-| [**HIV Data BI Pipeline (UNICEF)**](https://github.com/momomsb/bi-hiv-unicef) | End-to-end BI: data integration, OLAP modeling and reporting | SQL Server · SSIS · SSAS · SSRS |
 
 ---
 
